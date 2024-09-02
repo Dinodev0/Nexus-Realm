@@ -1,6 +1,6 @@
 # Nexus Realm
 
-Hey there! Welcome to the GitHub page for the **Nexus Realm Modpack**. This space is all about gathering your feedback, and hearing about any bugs or issues you might run into while playing. Your input helps us make the modpack better for everyone.
+Welcome to the GitHub page for the Nexus Realm Modpack. This space is all about gathering your feedback, and hearing about any bugs or issues you might run into while playing. Your input helps us make the modpack better for everyone.
 
 ## What is Nexus Realm?
 
